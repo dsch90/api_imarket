@@ -1,0 +1,19 @@
+{
+  "name": "api_imarket",
+  "version": "0.0.1",
+  "description": "api rets para imarket",
+  "main": "index.js",
+  "author": "Chamorro debora",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
