@@ -1,2 +1,0 @@
-# api-imarket
-# Chamorro Debora.

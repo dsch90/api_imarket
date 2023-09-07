@@ -1,0 +1,36 @@
+.principal {
+    background-image: url('fondo.jpg');
+    background-size: cover; /* Ajusta el tamaño de la imagen al tamaño del contenedor */
+    background-repeat: no-repeat;
+}
+.table-responsive {
+    overflow-x: scroll;
+    max-height: 400px; 
+    overflow-y: auto; 
+}
+#Footer {
+    background: black;
+    height: 50px;
+    border-top: 1px solid rgba(0, 0, 0, 0.24);  
+    /*  poner footer abajo */
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+#Nav{
+    position: fixed;
+    width: 100%;
+    top: 1;
+}
+#fondo_tabla{
+    background-color: whitesmoke;
+}
+.table_container
+{
+    overflow: auto;
+    height: 50%; 
+    width: 75%;
+    position: fixed;
+}
